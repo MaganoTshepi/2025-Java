@@ -41,7 +41,6 @@ system.out.print - display the results but the curser stays in the same line
 \\  - backspace
 %d - intergers 
 %f - for floating number 
-%.2f  - 2 decimal places 
 System.out.printf()-  The %f format specifier is used in formatted output to represent floating-point 
 numbers (decimal numbers) when using System.out.printf() or String.format().
 
